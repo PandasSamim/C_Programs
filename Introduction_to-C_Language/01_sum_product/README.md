@@ -51,4 +51,4 @@ Product: 24
 ## Related Programs
 - [calculator.c](../calculator.c) - Extended arithmetic operations
 - [user_input.c](../user_input.c) - More input/output examples
-```
+
