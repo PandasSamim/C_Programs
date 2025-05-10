@@ -47,8 +47,3 @@ Product: 24
 - Program uses integer arithmetic
 - For decimal numbers, modify data types to `float`
 - No input validation (assumes proper numeric input)
-
-## Related Programs
-- [calculator.c](../calculator.c) - Extended arithmetic operations
-- [user_input.c](../user_input.c) - More input/output examples
-
