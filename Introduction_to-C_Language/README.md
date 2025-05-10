@@ -8,7 +8,7 @@ Fundamental C programs demonstrating core language concepts through practical as
 
 | # | File Name | Program Description |
 |---|----------------------|-----------|
-| 1 | [01_sum_product]() | Sum & Product Calculator |
+| 1 | [01_sum_product](https://github.com/PandasSamim/C_Programs/tree/main/Introduction_to-C_Language/01_sum_product) | Sum & Product Calculator |
 | 2 | Number Comparison | [Algorithm](#) | [Flowchart](#) |
 | 3 | Find Greatest & Third Greatest | [Algorithm](#) | [Flowchart](#) |
 | 4 | Even/Odd Number Printer | [Algorithm](#) | [Flowchart](#) |
