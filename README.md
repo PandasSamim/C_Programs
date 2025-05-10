@@ -10,8 +10,8 @@ A comprehensive collection of C programming examples organized by topic, from ba
 C_Programs/
 │
 ├── 01_Introduction_to-C_Language/           # Fundamental programs
-│   ├── hello_world.c
-│   ├── calculator.c
+│   ├── Sum & Product Calculator
+│   ├── Number Comparison
 │   └── ...
 │
 ├── 02_Conditional_Statements_and_Loops/    # Control flow programs
