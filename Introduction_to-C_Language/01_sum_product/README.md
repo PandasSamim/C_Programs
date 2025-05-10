@@ -15,11 +15,11 @@ Write a program in C to read two numbers and produce the sum and product of thos
 ## Usage
 1. Compile the program:
    ```bash
-   gcc sum_product.c -o sum_product
+   gcc main.c -o main
    ```
 2. Run the executable:
    ```bash
-   ./sum_product
+   ./main
    ```
 3. Enter two numbers when prompted (space-separated)
 
