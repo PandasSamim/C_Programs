@@ -6,9 +6,9 @@ Fundamental C programs demonstrating core language concepts through practical as
 
 ## Assignment Index
 
-| # | Program Description | Algorithm | Flowchart |
-|---|----------------------|-----------|-----------|
-| 1 | Sum & Product Calculator | [Algorithm](#) | [Flowchart](#) |
+| # | File Name | Program Description |
+|---|----------------------|-----------|
+| 1 | [01_sum_product]() | Sum & Product Calculator |
 | 2 | Number Comparison | [Algorithm](#) | [Flowchart](#) |
 | 3 | Find Greatest & Third Greatest | [Algorithm](#) | [Flowchart](#) |
 | 4 | Even/Odd Number Printer | [Algorithm](#) | [Flowchart](#) |
