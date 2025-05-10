@@ -1,0 +1,11 @@
+﻿Step1: Start
+Step2: Declare variables num1, num2
+Step3: Read two numbers (num1 and num2)
+Step4: Comparison logic 
+* If num1>num2
+   * Display num1 is greatest number
+* Else if num2>num1
+   * Display num2 is greatest number
+* Else (num1 == num2)
+   * Display Equal
+Step5: End
