@@ -7,45 +7,24 @@ Fundamental C programs demonstrating core language concepts through practical as
 ## Assignment Index
 
 | # | File Name | Program Description |
-|---|----------------------|-----------|
+|---|----------------------|----------------------|
 | 1 | [01_sum_product](https://github.com/PandasSamim/C_Programs/tree/main/Introduction_to-C_Language/01_sum_product) | Sum & Product Calculator |
-| 2 | Number Comparison | [Algorithm](#) | [Flowchart](#) |
-| 3 | Find Greatest & Third Greatest | [Algorithm](#) | [Flowchart](#) |
-| 4 | Even/Odd Number Printer | [Algorithm](#) | [Flowchart](#) |
-| 5 | Sum of Natural Numbers | [Algorithm](#) | [Flowchart](#) |
-| 6 | Factor Finder | [Algorithm](#) | [Flowchart](#) |
-| 7 | First 10 Multiples | [Algorithm](#) | [Flowchart](#) |
-| 8 | Prime Number Checker | [Algorithm](#) | [Flowchart](#) |
-| 9 | Average Calculator | [Algorithm](#) | [Flowchart](#) |
-| 10 | Temperature Converter | [Algorithm](#) | [Flowchart](#) |
-| 11 | Harmonic Series Calculator | [Algorithm](#) | [Flowchart](#) |
-| 12 | Rightmost Digit Extractor | [Algorithm](#) | [Flowchart](#) |
-| 13 | Shape Analyzer | [Algorithm](#) | [Flowchart](#) |
-| 14 | Input Type Detector | [Algorithm](#) | [Flowchart](#) |
-| 15 | Case Reverser | [Algorithm](#) | [Flowchart](#) |
-| 16 | Interactive Division/Multiplication | [Algorithm](#) | [Flowchart](#) |
+| 2 | [02_number_comparison]() | Number Comparison |
+| 3 | [03_greatest_numbers]() | Find Greatest & Third Greatest |
+| 4 | [04_even_odd]() | Even/Odd Number Printer |
+| 5 | [05_natural_sum]() | Sum of Natural Numbers |
+| 6 | [06_factors]() | Factor Finder |
+| 7 | [07_multiples]() | First 10 Multiples |
+| 8 | [08_prime_check]() | Prime Number Checker |
+| 9 | [09_average_calculator]() | Average Calculator |
+| 10 | [10_temperature_converter]() | Temperature Converter |
+| 11 | [11_harmonic_series]() | Harmonic Series Calculator |
+| 12 | [12_rightmost_digit]() | Rightmost Digit Extractor |
+| 13 | [13_shape_analyzer]() | Shape Analyzer |
+| 14 | [14_input_detector]() | Input Type Detector |
+| 15 | [15_case_reverser]() | Case Reverser |
+| 16 | [16_interactive_math]() | Interactive Division/Multiplication |
 
-## Program Files
-
-```
-01_Introduction_to-C_Language/
-├── 01_sum_product
-├── 02_number_comparison
-├── 03_greatest_numbers
-├── 04_even_odd
-├── 05_natural_sum
-├── 06_factors
-├── 07_multiples
-├── 08_prime_check
-├── 09_average_calculator
-├── 10_temperature_converter
-├── 11_harmonic_series
-├── 12_rightmost_digit
-├── 13_shape_analyzer
-├── 14_input_detector
-├── 15_case_reverser
-└── 16_interactive_math
-```
 
 ## Common Algorithm Structure
 
