@@ -1,6 +1,6 @@
 # Introduction to C Programming
 
-![C Basics](https://img.shields.io/badge/C-Basics-blue.svg) ![Assignments](https://img.shields.io/badge/Assignments-16-yellow.svg) ![Flowchart](https://img.shields.io/badge/Flowchart-16-red.svg)
+![C Basics](https://img.shields.io/badge/C-Basics-blue.svg) ![Algorithm](https://img.shields.io/badge/Algorithm-16-yellow.svg) ![Flowchart](https://img.shields.io/badge/Flowchart-16-red.svg)
 
 Fundamental C programs demonstrating core language concepts through practical assignments. Each program includes algorithm and flowchart design.
 
