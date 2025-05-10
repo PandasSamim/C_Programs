@@ -1,0 +1,7 @@
+﻿Step1: Start
+Step2: Declare variables num1, num2, sum, product
+Step3: Read two numbers (num1 and num2)
+Step4: Calculate sum=num1+num2
+Step5: Calculate product=num1*num2
+Step6: Display sum and product
+Step7: End
