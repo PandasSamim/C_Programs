@@ -1,0 +1,13 @@
+Step1: Start
+Step2: Read n (must be ≥3, else show error.)
+Step3: Allocate arr of size n
+Step4: Read n numbers into n
+Step5: Short arr in ascending order:
+  - For i from 0 to n-2
+    - For j from 0 to n-2-i
+      - if arr[j]>arr[j+1], swap them
+Step6: Display:
+  - Greatest = arr[n-1]
+  - Third greatest = arr[n-3]
+Step7: Free memory
+Step8: End
